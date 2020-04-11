@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d44c7a8c-d7a4-4a72-bf61-d23ca8c12c3b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="aau-notify" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="studentCommentInsert.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/studentCommentInsert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+              <folding>
+                <marker date="1495371803297" expanded="true" signature="316:366" ph="SELECT * FRO... " />
+                <marker date="1495371803297" expanded="true" signature="316:382" ph="SELECT cours... courseRegistred" />
+                <marker date="1495371803297" expanded="true" signature="316:399" ph="SELECT cours... courseRegistred" />
+                <marker date="1495371803297" expanded="true" signature="789:934" ph="INSERT INTO courseChat... " />
+                <marker date="1495371803297" expanded="true" signature="1400:1483" ph="SELECT cours... courseRegistred" />
+                <marker date="1495371803297" expanded="true" signature="1554:1625" ph="SELECT * FRO... notifications" />
+                <marker date="1495371803297" expanded="true" signature="1837:1870" ph="SELECT * FRO... user" />
+                <marker date="1495371803297" expanded="true" signature="3411:4053" ph="..." />
+                <marker date="1495371803297" expanded="true" signature="4011:4046" ph="..." />
+                <marker date="1495371803297" expanded="true" signature="4023:4046" ph="..." />
+                <marker date="1495371803297" expanded="true" signature="4131:4500" ph="..." />
+                <marker date="1495371803297" expanded="true" signature="4456:4493" ph="..." />
+                <marker date="1495371803297" expanded="true" signature="4470:4493" ph="..." />
+                <marker date="1495371803297" expanded="true" signature="4887:4958" ph="UPDATE notif... " />
+                <marker date="1495371803297" expanded="true" signature="5177:5235" ph="DELETE FROM " />
+                <marker date="1495371803297" expanded="true" signature="5470:5483" ph="SELECT cours... courseRegistred" />
+                <marker date="1495371803297" expanded="true" signature="5470:5718" ph="SELECT cours... courseChat" />
+                <marker date="1495371803297" expanded="true" signature="5470:5739" ph="SELECT cours... courseChat" />
+                <marker date="1495371803297" expanded="true" signature="5470:5740" ph="SELECT cours... courseChat" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentChatroom.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studentChatroom.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-394">
+              <caret line="148" column="50" lean-forward="false" selection-start-line="148" selection-start-column="50" selection-end-line="148" selection-end-column="50" />
+              <folding>
+                <marker date="1495371532661" expanded="true" signature="2898:2957" ph="..." />
+                <marker date="1495371532661" expanded="true" signature="5280:5483" ph="..." />
+                <marker date="1495371532661" expanded="true" signature="5330:5452" ph="..." />
+                <marker date="1495371532661" expanded="true" signature="5803:5837" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slogin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slogin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validateSLogin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/validateSLogin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <marker date="1495298691309" expanded="true" signature="204:267" ph="SELECT * FRO... student" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/51a980c8-1483-4adc-8b99-8ee71b1d9e07/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0733274b-fc45-44d4-a00c-562178c57a2a/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f4276444-7919-4f01-8375-f92d387def50/console_1.sql" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/php/commentInsert.php" />
+        <option value="$PROJECT_DIR$/slogin.php" />
+        <option value="$PROJECT_DIR$/validateSLogin.php" />
+        <option value="$PROJECT_DIR$/studentChatroom.php" />
+        <option value="$PROJECT_DIR$/php/studentCommentInsert.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-17" />
+    <option name="width" value="1368" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/db_files/commentsection.sql" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/php" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR,SHOW_INHERITED" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d44c7a8c-d7a4-4a72-bf61-d23ca8c12c3b" name="Default" comment="" />
+      <created>1495262095712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495262095712</updated>
+      <workItem from="1495262097312" duration="19679000" />
+      <workItem from="1495341687207" duration="1330000" />
+      <workItem from="1495371674926" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21236000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-17" width="1368" height="786" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11782477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16087614" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34954408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34954408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11782477" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16087614" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php/studentCommentInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495371803297" expanded="true" signature="316:366" ph="SELECT * FRO... " />
+            <marker date="1495371803297" expanded="true" signature="316:382" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="316:399" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="789:934" ph="INSERT INTO courseChat... " />
+            <marker date="1495371803297" expanded="true" signature="1400:1483" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="1554:1625" ph="SELECT * FRO... notifications" />
+            <marker date="1495371803297" expanded="true" signature="1837:1870" ph="SELECT * FRO... user" />
+            <marker date="1495371803297" expanded="true" signature="3411:4053" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4011:4046" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4023:4046" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4131:4500" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4456:4493" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4470:4493" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4887:4958" ph="UPDATE notif... " />
+            <marker date="1495371803297" expanded="true" signature="5177:5235" ph="DELETE FROM " />
+            <marker date="1495371803297" expanded="true" signature="5470:5483" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="5470:5718" ph="SELECT cours... courseChat" />
+            <marker date="1495371803297" expanded="true" signature="5470:5739" ph="SELECT cours... courseChat" />
+            <marker date="1495371803297" expanded="true" signature="5470:5740" ph="SELECT cours... courseChat" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentChatroom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2058">
+          <caret line="147" column="50" lean-forward="false" selection-start-line="147" selection-start-column="50" selection-end-line="147" selection-end-column="50" />
+          <folding>
+            <marker date="1495371532661" expanded="true" signature="2898:2957" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5280:5483" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5330:5452" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5803:5837" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validateSLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1495298691309" expanded="true" signature="204:267" ph="SELECT * FRO... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentCommentInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495371803297" expanded="true" signature="316:366" ph="SELECT * FRO... " />
+            <marker date="1495371803297" expanded="true" signature="316:382" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="316:399" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="789:934" ph="INSERT INTO courseChat... " />
+            <marker date="1495371803297" expanded="true" signature="1400:1483" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="1554:1625" ph="SELECT * FRO... notifications" />
+            <marker date="1495371803297" expanded="true" signature="1837:1870" ph="SELECT * FRO... user" />
+            <marker date="1495371803297" expanded="true" signature="3411:4053" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4011:4046" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4023:4046" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4131:4500" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4456:4493" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4470:4493" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4887:4958" ph="UPDATE notif... " />
+            <marker date="1495371803297" expanded="true" signature="5177:5235" ph="DELETE FROM " />
+            <marker date="1495371803297" expanded="true" signature="5470:5483" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="5470:5718" ph="SELECT cours... courseChat" />
+            <marker date="1495371803297" expanded="true" signature="5470:5739" ph="SELECT cours... courseChat" />
+            <marker date="1495371803297" expanded="true" signature="5470:5740" ph="SELECT cours... courseChat" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentChatroom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2058">
+          <caret line="147" column="50" lean-forward="true" selection-start-line="147" selection-start-column="50" selection-end-line="147" selection-end-column="50" />
+          <folding>
+            <marker date="1495371532661" expanded="true" signature="2898:2957" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5280:5483" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5330:5452" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5803:5837" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validateSLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1495298691309" expanded="true" signature="204:267" ph="SELECT * FRO... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/51a980c8-1483-4adc-8b99-8ee71b1d9e07/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3bc1c36c-d50b-4271-aedb-26c693e1c9f7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f4276444-7919-4f01-8375-f92d387def50/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0733274b-fc45-44d4-a00c-562178c57a2a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f4276444-7919-4f01-8375-f92d387def50/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="true" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/0733274b-fc45-44d4-a00c-562178c57a2a">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>0733274b-fc45-44d4-a00c-562178c57a2a</OriginalElement>
+          <nodes>
+            <node x="" y="">0733274b-fc45-44d4-a00c-562178c57a2a.TABLE:aau_notify_DB.comments</node>
+            <node x="" y="">0733274b-fc45-44d4-a00c-562178c57a2a.TABLE:aau_notify_DB.user</node>
+            <node x="" y="">0733274b-fc45-44d4-a00c-562178c57a2a.TABLE:aau_notify_DB.notifications</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="185.0" y="152.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/chatRoomManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chatrooms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validateLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_files/allcoursesql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_files/student">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_files/dbcon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/commentInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validateSLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1495298691309" expanded="true" signature="204:267" ph="SELECT * FRO... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentChatroom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-394">
+          <caret line="148" column="50" lean-forward="false" selection-start-line="148" selection-start-column="50" selection-end-line="148" selection-end-column="50" />
+          <folding>
+            <marker date="1495371532661" expanded="true" signature="2898:2957" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5280:5483" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5330:5452" ph="..." />
+            <marker date="1495371532661" expanded="true" signature="5803:5837" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentCommentInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <marker date="1495371803297" expanded="true" signature="316:366" ph="SELECT * FRO... " />
+            <marker date="1495371803297" expanded="true" signature="316:382" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="316:399" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="789:934" ph="INSERT INTO courseChat... " />
+            <marker date="1495371803297" expanded="true" signature="1400:1483" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="1554:1625" ph="SELECT * FRO... notifications" />
+            <marker date="1495371803297" expanded="true" signature="1837:1870" ph="SELECT * FRO... user" />
+            <marker date="1495371803297" expanded="true" signature="3411:4053" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4011:4046" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4023:4046" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4131:4500" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4456:4493" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4470:4493" ph="..." />
+            <marker date="1495371803297" expanded="true" signature="4887:4958" ph="UPDATE notif... " />
+            <marker date="1495371803297" expanded="true" signature="5177:5235" ph="DELETE FROM " />
+            <marker date="1495371803297" expanded="true" signature="5470:5483" ph="SELECT cours... courseRegistred" />
+            <marker date="1495371803297" expanded="true" signature="5470:5718" ph="SELECT cours... courseChat" />
+            <marker date="1495371803297" expanded="true" signature="5470:5739" ph="SELECT cours... courseChat" />
+            <marker date="1495371803297" expanded="true" signature="5470:5740" ph="SELECT cours... courseChat" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

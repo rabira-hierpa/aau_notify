@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="aau_notify_DB_root@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.2">
+    <root id="1"/>
+    <schema id="2" parent="1" name="aau_notify_DB">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="information_schema"/>
+    <schema id="4" parent="1" name="wordpress"/>
+    <schema id="5" parent="1" name="wp_myblog"/>
+    <table id="6" parent="2" name="comments"/>
+    <table id="7" parent="2" name="notifications"/>
+    <table id="8" parent="2" name="user"/>
+    <column id="9" parent="6" name="cid">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="10" parent="6" name="uid">
+      <Position>2</Position>
+      <DataType>varchar(128)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="11" parent="6" name="date">
+      <Position>3</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="12" parent="6" name="message">
+      <Position>4</Position>
+      <DataType>text|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <index id="13" parent="6" name="cid">
+      <ColNames>cid</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="14" parent="6" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>cid</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <key id="15" parent="6" name="cid">
+      <ColNames>cid</ColNames>
+      <UnderlyingIndexName>cid</UnderlyingIndexName>
+    </key>
+    <column id="16" parent="7" name="nid">
+      <Position>1</Position>
+      <DataType>int(10) unsigned|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="17" parent="7" name="uid">
+      <Position>2</Position>
+      <DataType>int(11) unsigned|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="18" parent="7" name="date">
+      <Position>3</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="19" parent="7" name="message">
+      <Position>4</Position>
+      <DataType>text|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="20" parent="7" name="tag">
+      <Position>5</Position>
+      <DataType>varchar(8)|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>&apos;All&apos;</DefaultExpression>
+    </column>
+    <key id="21" parent="7" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>nid</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="22" parent="8" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="23" parent="8" name="fullname">
+      <Position>2</Position>
+      <DataType>varchar(128)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="24" parent="8" name="usrname">
+      <Position>3</Position>
+      <DataType>varchar(128)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="25" parent="8" name="passkey">
+      <Position>4</Position>
+      <DataType>varchar(128)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="26" parent="8" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>
